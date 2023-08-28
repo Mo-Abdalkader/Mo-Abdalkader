@@ -122,7 +122,3 @@ Here are some of my key skills and areas of expertise:
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Mo-Abdalkader/Mo-Abdalkader/output/snake.svg" alt="Snake animation" />
-
-###
