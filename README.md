@@ -4,7 +4,21 @@
 
 ###
 
-<h2 align="center">Hi!, I'm Mohamed Abdalkader👋</h2>
+<h1 align="center">Hi!, I'm Mohamed Abdalkader👋</h1>
+
+###
+
+<div align="center">
+  <img height="25" src="https://github.com/Mo-Abdalkader/Mo-Abdalkader/blob/main/README%20files/README%20file%20gif9.gif"  />
+</div>
+
+###
+
+<h3 align="center">Bachelor's degree in Computer Science Zagazig University</h3>
+
+###
+
+<h3 align="left">About me :</h3>
 
 ###
 
@@ -26,11 +40,10 @@ Here are some of my key skills and areas of expertise:
   Convolutional Neural Networks (CNNs), and Recurrent Neural Networks (RNNs) for deep learning tasks.
 - Familiarity with Internet of Things (IoT).
 
-
 ###
 
 <div align="center">
-  <img height="25" src="https://github.com/Mo-Abdalkader/Mo-Abdalkader/blob/main/README%20files/README%20file%20gif9.gif"  />
+  <img height="25" src="https://github.com/Mo-Abdalkader/Mo-Abdalkader/blob/main/README%20files/README%20file%20gif8.gif"  />
 </div>
 
 ###
@@ -58,7 +71,7 @@ Here are some of my key skills and areas of expertise:
 ###
 
 <div align="center">
-  <img height="25" src="https://github.com/Mo-Abdalkader/Mo-Abdalkader/blob/main/README%20files/README%20file%20gif9.gif"  />
+  <img height="25" src="https://github.com/Mo-Abdalkader/Mo-Abdalkader/blob/main/README%20files/README%20file%20gif8.gif"  />
 </div>
 
 ###
@@ -88,7 +101,7 @@ Here are some of my key skills and areas of expertise:
 ###
 
 <div align="center">
-  <img height="25" src="https://github.com/Mo-Abdalkader/Mo-Abdalkader/blob/main/README%20files/README%20file%20gif9.gif"  />
+  <img height="25" src="https://github.com/Mo-Abdalkader/Mo-Abdalkader/blob/main/README%20files/README%20file%20gif8.gif"  />
 </div>
 
 ###
@@ -106,6 +119,7 @@ Here are some of my key skills and areas of expertise:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mo-Abdalkader&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Mo-Abdalkader&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mo-Abdalkader&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
