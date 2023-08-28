@@ -8,7 +8,23 @@
 
 ###
 
-<h4 align="left">Graduated from Zagazig University, Department of Computer Science<br><br>Strong Programming Skills (Java, Python).<br>Data Structure and Algorithms.<br>Design patterns.<br>Software engineering.<br>Desktop development (Java).<br>Command Line - CMD and Linux terminal commands.<br>Data manipulation and data analysis (Python).<br>Object Oriented Programming (OOP).<br>Database.<br>Version control - Familiar with Git and GitHub.<br>Machine learning - Experienced in implementing various algorithms and building supervised models with dense layers, CNNs, and RNNs for deep learning tasks.<br>Familiar with Internet of Things (IoT).</h4>
+<h4 align="left">Graduated from Zagazig University, Department of Computer Science</h4>
+
+Here are some of my key skills and areas of expertise:
+
+- Strong Programming Skills (Java, Python).
+- Proficiency in Data Structures and Algorithms.
+- Knowledge of Design Patterns.
+- Background in Software Engineering.
+- Experienced in Desktop Development (Java).
+- Command Line Proficiency - Comfortable with CMD and Linux Terminal Commands.
+- Skilled in Data Manipulation and Data Analysis using Python.
+- Proficient in Object-Oriented Programming (OOP).
+- Understanding of Databases.
+- Version Control - Familiar with Git and GitHub.
+- Machine Learning - Implementing various algorithms, building supervised models with dense layers, Convolutional Neural Networks (CNNs), and Recurrent Neural Networks (RNNs) for deep learning tasks.
+- Familiarity with Internet of Things (IoT).
+
 
 ###
 
