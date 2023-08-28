@@ -22,7 +22,8 @@ Here are some of my key skills and areas of expertise:
 - Proficient in Object-Oriented Programming (OOP).
 - Understanding of Databases.
 - Version Control - Familiar with Git and GitHub.
-- Machine Learning - Implementing various algorithms, building supervised models with dense layers, Convolutional Neural Networks (CNNs), and Recurrent Neural Networks (RNNs) for deep learning tasks.
+- Machine Learning - Implementing various algorithms, building supervised models with dense layers,
+  Convolutional Neural Networks (CNNs), and Recurrent Neural Networks (RNNs) for deep learning tasks.
 - Familiarity with Internet of Things (IoT).
 
 
