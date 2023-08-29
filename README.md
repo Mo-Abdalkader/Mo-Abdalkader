@@ -126,10 +126,10 @@
 
 ###
 
-<div style="display: flex; justify-content: center;">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Abdalkader&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api?username=Mo-Abdalkader&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="300" src="https://streak-stats.demolab.com/?user=Mo-Abdalkader&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo-Abdalkader&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="135" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Mo-Abdalkader&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&date_format=j M[ Y]" height="135" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mo-Abdalkader&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false" height="136" alt="languages graph"  />
 </div>
 
 ###
