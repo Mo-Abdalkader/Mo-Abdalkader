@@ -126,7 +126,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mo-Abdalkader&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="135" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo-Abdalkader&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="135" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mo-Abdalkader&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false" height="135" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=Mo-Abdalkader&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&date_format=j M[ Y]" height="135" alt="streak graph" />
 </div>
