@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="center">Bachelor's degree in Computer Science Zagazig University</h2>
+<h3 align="center">Bachelor's degree in Computer Science Zagazig University</h3>
 
 ###
 
