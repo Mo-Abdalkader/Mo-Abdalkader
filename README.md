@@ -48,7 +48,7 @@
 
 ###
 
-<h4 align="left">Languages and Tools :</h4>
+<h3 align="left">Languages and Tools :</h3>
 
 ###
 
@@ -86,7 +86,7 @@
 
 ###
 
-<h4 align="left">Contact with me :</h4>
+<h3 align="left">Contact with me :</h3>
 
 ###
 
@@ -116,7 +116,7 @@
 
 ###
 
-<h4 align="left">Statistics :</h4>
+<h3 align="left">Statistics :</h3>
 
 ###
 
@@ -135,7 +135,7 @@
 
 ###
 
-<h4 align="left">My Contributions :</h4>
+<h3 align="left">My Contributions :</h3>
 
 ###
 
