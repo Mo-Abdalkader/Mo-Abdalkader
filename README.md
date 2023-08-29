@@ -22,8 +22,6 @@
 
 ###
 
-<h4 align="left">Graduated from Zagazig University, Department of Computer Science</h4>
-
 Here are some of my key skills and areas of expertise:
 
 - Strong Programming Skills (Java, Python).
