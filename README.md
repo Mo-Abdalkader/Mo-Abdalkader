@@ -25,7 +25,7 @@
 <h3 align="left">Skills :</h3>
 
 ###
-<h3>
+
 - Strong Programming Skills (Java, Python).
 - Proficiency in Data Structures and Algorithms.
 - Knowledge of Design Patterns.
@@ -39,7 +39,7 @@
 - Machine Learning - Implementing various algorithms, building supervised models with dense layers,
   Convolutional Neural Networks (CNNs), and Recurrent Neural Networks (RNNs) for deep learning tasks.
 - Familiarity with Internet of Things (IoT).
-</h3>
+
 ###
 
 <div align="center">
