@@ -26,21 +26,19 @@
 
 ###
 
-<div align="center">
-  - Strong Programming Skills (Java, Python).
-  - Proficiency in Data Structures and Algorithms.
-  - Knowledge of Design Patterns.
-  - Background in Software Engineering.
-  - Experienced in Desktop Development (Java).
-  - Command Line Proficiency - Comfortable with CMD and Linux Terminal Commands.
-  - Skilled in Data Manipulation and Data Analysis using Python.
-  - Proficient in Object-Oriented Programming (OOP).
-  - Understanding of Databases.
-  - Version Control - Familiar with Git and GitHub.
-  - Machine Learning - Implementing various algorithms, building supervised models with dense layers,
-    Convolutional Neural Networks (CNNs), and Recurrent Neural Networks (RNNs) for deep learning tasks.
-  - Familiarity with Internet of Things (IoT).
-</div>
+- Strong Programming Skills (Java, Python).
+- Proficiency in Data Structures and Algorithms.
+- Knowledge of Design Patterns.
+- Background in Software Engineering.
+- Experienced in Desktop Development (Java).
+- Command Line Proficiency - Comfortable with CMD and Linux Terminal Commands.
+- Skilled in Data Manipulation and Data Analysis using Python.
+- Proficient in Object-Oriented Programming (OOP).
+- Understanding of Databases.
+- Version Control - Familiar with Git and GitHub.
+- Machine Learning - Implementing various algorithms, building supervised models with dense layers,
+  Convolutional Neural Networks (CNNs), and Recurrent Neural Networks (RNNs) for deep learning tasks.
+- Familiarity with Internet of Things (IoT).
 
 ###
 
