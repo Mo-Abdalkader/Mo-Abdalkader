@@ -133,8 +133,8 @@
 
 ###
 
+<h4 align="left">My Contributions :</h4>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mo-Abdalkader/Mo-Abdalkader/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
