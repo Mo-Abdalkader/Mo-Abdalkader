@@ -82,7 +82,7 @@ Here are some of my key skills and areas of expertise:
   <a href="https://www.linkedin.com/in/mo-abdalkader/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="Mohameed.Abdalkadeer@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=Mohameed.Abdalkadeer@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/mo_abdalkader" target="_blank">
@@ -118,5 +118,9 @@ Here are some of my key skills and areas of expertise:
   <img src="https://github-readme-stats.vercel.app/api?username=Mo-Abdalkader&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Mo-Abdalkader&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Mo-Abdalkader/Mo-Abdalkader/output/snake.svg" alt="Snake animation" />
 
 ###
