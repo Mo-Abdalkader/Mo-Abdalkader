@@ -25,24 +25,24 @@
 
 ###
 
-- Strong Programming Skills (Java, Python).
-- Proficiency in Data Structures and Algorithms.
-- Knowledge of Design Patterns.
-- Background in Software Engineering.
-- Experienced in Desktop Development (Java).
-- Command Line Proficiency - Comfortable with CMD and Linux Terminal Commands.
-- Skilled in Data Manipulation and Data Analysis using Python.
-- Proficient in Object-Oriented Programming (OOP).
-- Understanding of Databases.
-- Version Control - Familiar with Git and GitHub.
-- Machine Learning - Implementing various algorithms, building supervised models with dense layers,
-  Convolutional Neural Networks (CNNs), and Recurrent Neural Networks (RNNs) for deep learning tasks.
-- Familiarity with Internet of Things (IoT).
+- 🚀 Strong Programming Skills: Python, Java.
+- 📦 Proficient in Data Structures, Algorithms & Design Patterns.
+- 🧠 Machine Learning Engineer: Experience with classification, regression, and deep learning models (CNNs, RNNs).
+- 📊 Skilled in Data Manipulation, Analysis & Visualization using Pandas, NumPy, Matplotlib.
+- 💻 Desktop Application Development: Java-based GUI apps.
+- 🧰 Solid Foundation in Software Engineering and Object-Oriented Programming (OOP).
+- 🧠 Experience in Image Processing & Computer Vision using OpenCV.
+- 🌐 Background in Internet of Things (IoT) and AI integration.
+- 🐧 Comfortable with Linux Terminal and CMD.
+- 🧪 Hands-on experience with TensorFlow and deep learning frameworks.
+- 🗄️ Understanding of SQL Databases.
+- 🔧 Familiar with Version Control using Git & GitHub.
+- ⚡ Passionate about solving real-world problems with AI & software.
 
 ###
 
 <div align="center">
-  <img height="25" src="https://github.com/Mo-Abdalkader/Mo-Abdalkader/blob/main/README%20files/README%20file%20gif8.gif"  />
+  <img height="25" src="https://github.com/Mo-Abdalkader/Mo-Abdalkader/blob/main/README%20files/README%20file%20gif8.gif" />
 </div>
 
 ###
@@ -52,29 +52,29 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
 </div>
 
 ###
