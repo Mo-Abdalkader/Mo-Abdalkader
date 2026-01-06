@@ -25,6 +25,7 @@ I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vis
 - 🏥 **Medical AI**: Achieved **240% accuracy improvement** on diabetic retinopathy classification through hybrid architectures
 - ⚡ **Model Optimization**: Expert in quantization, PEFT, reducing inference memory by 50% while maintaining accuracy
 - 🚀 **MLOps & Deployment**: Docker, Kubernetes, FastAPI, Azure, AWS with complete CI/CD pipelines
+- 🎯 **Problem Solving**: 100+ LeetCode problems solved, strong foundation in algorithms and data structures
 
 **🏆 Recognized Excellence**: Recipient of **105,000 EGP** in competitive research grants (ITAC, ASRT) and IEEE national innovation award.
 
@@ -295,13 +296,16 @@ I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vis
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mo-Abdalkader&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mo-Abdalkader&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo-Abdalkader&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mo-Abdalkader&layout=compact&theme=react&hide_border=false&langs_count=8" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mo-Abdalkader&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="160" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Mo-Abdalkader&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" height="160" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Abdalkader&theme=react&hide_border=false" height="170" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mo-Abdalkader&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -309,11 +313,7 @@ I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vis
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mo-Abdalkader&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mo-Abdalkader/Mo-Abdalkader/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mo-Abdalkader/Mo-Abdalkader/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
