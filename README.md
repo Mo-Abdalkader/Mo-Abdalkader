@@ -82,7 +82,8 @@ I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vis
 ## 🌟 Featured Projects
 
 ### 🏥 **Medical VLM with Multi-Agent Architecture**
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader)
+![Status](https://img.shields.io/badge/Status-Private_Research-red?style=for-the-badge)
+![In Progress](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)
 
 **Qwen 2.5 7B • PyTorch • LoRA • Multi-Agent AI**
 
@@ -98,10 +99,13 @@ I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vis
 - ⚡ 50% memory reduction through quantization
 - 🏥 Real-time medical report generation
 
+> *Note: This project is currently under private development for research purposes.*
+
 ---
 
 ### 🔍 **Medical Knowledge RAG System**
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader)
+![Status](https://img.shields.io/badge/Status-Private_Research-red?style=for-the-badge)
+![In Progress](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)
 
 **LangChain • FAISS • Transformers • RAG Architecture**
 
@@ -116,10 +120,13 @@ I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vis
 - ✅ Hallucination detection system
 - 📈 Significant accuracy improvements across all metrics
 
+> *Note: This project is currently under private development for research purposes.*
+
 ---
 
 ### 🧠 **Brain Tumor Classification System**
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader) [![Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge&logo=streamlit)](https://github.com/Mo-Abdalkader)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader/Brain-Tumor-Classification)
+[![Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://brain-tumor-classification-mo-abdalkader.streamlit.app/)
 
 **CNN • TensorFlow • Streamlit • Docker**
 
@@ -133,7 +140,8 @@ I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vis
 ---
 
 ### 👤 **Face Recognition & Similarity System**
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader) [![Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge&logo=streamlit)](https://github.com/Mo-Abdalkader)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader/Face-Recognition)
+[![Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://face-recognition-mo-abdalkader.streamlit.app/)
 
 **PyTorch • FaceNet • Streamlit • SQL**
 
@@ -151,7 +159,7 @@ I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vis
 ---
 
 ### 👋 **Real-Time Gesture Recognition System**
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader/Hand-Tracking)
 
 **OpenCV • MediaPipe • Tkinter**
 
@@ -169,7 +177,7 @@ I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vis
 ---
 
 ### 🫁 **Lung and Colon Cancer Detection**
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader/Lung-and-Colon-Cancer)
 
 **DenseNet • Transfer Learning • Flask**
 
@@ -183,7 +191,7 @@ I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vis
 ---
 
 ### 🌱 **AI-IoT Renewable Energy Prediction**
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader/Renewable-Energy-Prediction)
 
 **LSTM • GRU • Transformers • IoT Integration**
 
