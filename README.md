@@ -125,8 +125,8 @@ I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vis
 ---
 
 ### 🧠 **Brain Tumor Classification System**
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader/Brain-Tumor-Classification)
-[![Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://brain-tumor-classification-mo-abdalkader.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader/Brain-Tumor)
+[![Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://brain-tumor-cls.streamlit.app/)
 
 **CNN • TensorFlow • Streamlit • Docker**
 
@@ -141,7 +141,7 @@ I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vis
 
 ### 👤 **Face Recognition & Similarity System**
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader/Face-Recognition)
-[![Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://face-recognition-mo-abdalkader.streamlit.app/)
+[![Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://face-similarity-recognition.streamlit.app/)
 
 **PyTorch • FaceNet • Streamlit • SQL**
 
@@ -177,7 +177,7 @@ I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vis
 ---
 
 ### 🫁 **Lung and Colon Cancer Detection**
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader/Lung-and-Colon-Cancer)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader/Neural-Hand)
 
 **DenseNet • Transfer Learning • Flask**
 
