@@ -5,11 +5,11 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Mohamed+Abdalkader!;AI+Engineer;LLM+%26+Computer+Vision+Specialist;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Mohamed+Abdalkader!;AI+Engineer;LLM+%26+RAG+Specialist;" />
 </h1>
 
 <h3 align="center">🎓 Bachelor's in Computer Science | Zagazig University</h3>
-<h3 align="center">🤖 AI Engineer | LLM Fine-tuning | Medical AI | MLOps</h3>
+<h3 align="center">🤖 AI Engineer | LLMs · RAG Systems · NLP · Medical AI</h3>
 
 <div align="center">
   <img height="25" src="https://github.com/Mo-Abdalkader/Mo-Abdalkader/blob/main/README%20files/README%20file%20gif9.gif" />
@@ -19,51 +19,45 @@
 
 ## 🚀 About Me
 
-I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vision**, and **Medical AI** with 1+ years of hands-on experience building production-grade machine learning systems. My expertise spans:
+I'm an **AI Engineer** specializing in **LLMs, RAG Systems, and NLP** with 1+ year of experience building production-grade ML systems. My core focus:
 
-- 🧠 **LLM Fine-tuning & RAG Systems**: Fine-tuning vision-language models (Qwen 2.5 7B) with LoRA/QLoRA, building medical RAG pipelines with FAISS
-- 🏥 **Medical AI**: Achieved **240% accuracy improvement** on diabetic retinopathy classification through hybrid architectures
-- ⚡ **Model Optimization**: Expert in quantization, PEFT, reducing inference memory by 50% while maintaining accuracy
-- 🚀 **MLOps & Deployment**: Docker, Kubernetes, FastAPI, Azure, AWS with complete CI/CD pipelines
-- 🎯 **Problem Solving**: 100+ LeetCode problems solved, strong foundation in algorithms and data structures
+- 🧠 **LLMs & Fine-tuning**: LoRA/QLoRA fine-tuning of models like Qwen 2.5 7B, achieving **280% accuracy gains** on medical imaging tasks
+- 🔍 **RAG & Retrieval Systems**: End-to-end RAG pipelines with FAISS, LangChain, and sub-second retrieval over 20+ indexed textbooks
+- 💬 **NLP & Chatbots**: Multi-provider LLM apps with streaming, memory, prompt engineering, and production deployment
+- ⚡ **Model Optimization**: 4-bit quantization cutting VRAM by 59% with negligible accuracy loss
+- 🚀 **MLOps**: Docker, FastAPI, Railway, Azure, AWS with full CI/CD pipelines
 
-**🏆 Recognized Excellence**: Recipient of **105,000 EGP** in competitive research grants (ITAC, ASRT) and IEEE national innovation award.
+**🏆 Highlights**: 105,000 EGP in competitive research grants (ITAC, ASRT) · IEEE National Award · Top 3 of 150 in ML challenge
 
 ---
 
 ## 💼 Professional Experience
 
 ### 🎯 **Freelance AI Engineer**
-*September 2024 – Present | Remote*
+*May 2025 – Feb 2026 | Remote*
 
-**Deep Learning • Computer Vision • NLP • Medical AI • MLOps**
-
-- Fine-tuned **Qwen 2.5 7B Vision-Language Model** using LoRA for diabetic retinopathy detection
-- Achieved **240% total accuracy gain** (20% → 68% retinopathy, 87% → 94% edema) through multi-agent CNN + VLM architecture
-- Built **Medical RAG system** with FAISS indexing 50+ medical textbooks for real-time knowledge retrieval
-- Improved caption quality **26x** (BLEU: 0.01 → 0.26) and reduced inference memory **50%** via 4-bit quantization
-- Deployed end-to-end ML pipelines with **Docker, Flask**, and comprehensive evaluation frameworks
+- Fine-tuned **Qwen 2.5 7B VLM** with LoRA rank-32 on 35,000 retinal images — retinopathy accuracy: **20% → 76% (+280%)**
+- Built **multi-agent pipeline** (2 CNNs + RBF-SVM) improving report ROUGE from 0.17 → 0.44 (2.5x gain)
+- Deployed **RAG system** indexing 20+ medical textbooks via FAISS with 0.3s latency; served through Flask + Docker
+- Reduced inference memory from **17GB → 7GB (−59%)** via 4-bit quantization with no accuracy loss
 
 ### 🏆 **AI Research Intern** | Neuronetix
 *August 2024 – September 2024*
 
-- Designed ensemble models (XGBoost + Random Forest) for healthcare diagnostics achieving **AUC 0.92, F1 0.89** on 5,000+ patient records
-- **Ranked Top 3** of 150 participants in Customer Churn Prediction challenge with **93.5% accuracy**
-- Documented ML evaluation protocols, model cards, and deployment readiness assessments
+- Built XGBoost + Random Forest ensemble on 5,000+ patient records — **AUC 0.92, F1 0.89**
+- **Ranked Top 3** of 150 in Customer Churn Prediction challenge with **93.5% accuracy**
 
-### 🎓 **Machine Learning Engineer** | DEPI (Digital Egypt Pioneers Initiative)
-*April 2024 – October 2024 | Microsoft Track*
+### 🎓 **Machine Learning Engineer** | DEPI — Microsoft Track
+*April 2024 – October 2024*
 
-- Developed **breast cancer detection model** using DenseNet transfer learning with **97% accuracy** on 15,000+ histopathological images
-- Completed intensive 6-month program in production ML engineering, MLOps, and Azure deployment
-- Specialized in computer vision, NLP, and end-to-end ML pipeline development
+- Developed breast cancer detection model using DenseNet — **97% accuracy** on 15,000+ images
+- 300+ hours covering production ML, MLOps, and Azure deployment
 
 ### 🌟 **Machine Learning Intern** | ShAI
 *March 2024 – June 2024*
 
-- Built **music genre classifier** using MFCC extraction + XGBoost achieving **95% accuracy** across 8 classes
-- Developed regression models for diamond price prediction with **MAE < $50** through Optuna optimization
-- Focused on feature engineering, hyperparameter tuning, and model evaluation
+- Music genre classifier (MFCC + XGBoost) — **95% accuracy** across 8 classes
+- Diamond price prediction with **MAE < $50** via Optuna hyperparameter tuning
 
 ---
 
@@ -71,56 +65,48 @@ I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vis
 
 | Award | Amount | Organization | Year |
 |-------|--------|-------------|------|
-| **Research Grant** | 70,000 EGP | Information Technology Academia Collaboration (ITAC) | 2023 |
-| **Research Grant** | 35,000 EGP | Academy of Scientific Research and Technology (ASRT) | 2023 |
-| **National Recognition** | - | IEEE Graduation Project Competition | 2023 |
-
-**Total Competitive Funding: 105,000 EGP**
+| **Research Grant** | 70,000 EGP | ITAC | 2023 |
+| **Research Grant** | 35,000 EGP | ASRT | 2023 |
+| **National Recognition** | — | IEEE Graduation Project Competition | 2023 |
 
 ---
 
 ## 🌟 Featured Projects
 
+### 💬 **NeuralChat — Multi-Provider LLM Chatbot**
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader/NeuralChat)
+[![Demo](https://img.shields.io/badge/Railway-Live_Demo-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://neural-chat-demo.up.railway.app)
+
+**FastAPI • LangChain • Cohere • OpenAI • Groq • SSE Streaming**
+
+- Multi-provider chatbot supporting **Cohere, OpenAI, and Groq** with 10+ switchable models
+- 5 prompting modes: Zero-Shot, Few-Shot, Chain-of-Thought, Memory Chain, Structured JSON
+- SSE streaming, per-session memory, 6 AI personas, real-time cost & latency tracking
+- Deployed on Railway — FastAPI serves both REST API and frontend as a unified service
+
+---
+
 ### 🏥 **Medical VLM with Multi-Agent Architecture**
 ![Status](https://img.shields.io/badge/Status-Private_Research-red?style=for-the-badge)
-![In Progress](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)
 
-**Qwen 2.5 7B • PyTorch • LoRA • Multi-Agent AI**
+**Qwen 2.5 7B • PyTorch • LoRA • FAISS • Multi-Agent AI**
 
-- Fine-tuned Qwen 2.5 7B VLM using **LoRA rank-32** for diabetic retinopathy diagnosis
-- Achieved **224% accuracy gain** (20% → 59% retinopathy, 72% → 87% edema) through LoRA fine-tuning
-- Designed **multi-agent architecture** (2 CNNs + RBF-SVM) improving report generation (BLEU: 0.01 → 0.17)
-- Optimized inference via **4-bit quantization**, reducing VRAM from 17GB to 7GB
-- **Impact**: Production-ready medical AI system for automated retinopathy screening
-
-**Key Achievements:**
-- 🎯 68% final retinopathy accuracy (240% improvement from baseline)
-- 📊 BLEU score: 0.26 (26x improvement)
-- ⚡ 50% memory reduction through quantization
-- 🏥 Real-time medical report generation
-
-> *Note: This project is currently under private development for research purposes.*
+- Fine-tuned Qwen 2.5 7B with **LoRA rank-32** on 35,000 retinal scans
+- Retinopathy accuracy: **20% → 76% (+280%)** | Edema: **72% → 94%**
+- Multi-agent ensemble (2 CNNs + RBF-SVM) for decision fusion — ROUGE: **0.17 → 0.44**
+- RAG pipeline indexing 20+ medical textbooks via FAISS (0.3s latency)
+- **4-bit quantization**: VRAM 17GB → 7GB (−59%)
 
 ---
 
 ### 🔍 **Medical Knowledge RAG System**
 ![Status](https://img.shields.io/badge/Status-Private_Research-red?style=for-the-badge)
-![In Progress](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)
 
-**LangChain • FAISS • Transformers • RAG Architecture**
+**LangChain • FAISS • Transformers • RAG**
 
-- Engineered RAG pipeline indexing **20+ medical textbooks** with FAISS for semantic retrieval
-- Achieved **9% retinopathy gain** (59% → 68%) and **7% edema gain** (87% → 94%) by grounding VLM outputs
-- Built evaluation framework for factual accuracy and hallucination detection
-- Enhanced caption quality from **BLEU 0.17 → 0.26** through knowledge-augmented generation
-
-**Technical Highlights:**
-- 📚 50+ medical textbooks indexed
-- 🎯 Real-time semantic search
-- ✅ Hallucination detection system
-- 📈 Significant accuracy improvements across all metrics
-
-> *Note: This project is currently under private development for research purposes.*
+- Engineered RAG pipeline over 20+ indexed medical textbooks for semantic retrieval
+- Grounded VLM outputs with retrieved context — improved accuracy and reduced hallucinations
+- Built evaluation framework covering factual accuracy and hallucination detection
 
 ---
 
@@ -130,12 +116,9 @@ I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vis
 
 **CNN • TensorFlow • Streamlit • Docker**
 
-- Developed CNN classification system achieving **95% accuracy** on brain tumor detection
-- Built production **Streamlit web app** with real-time inference and medical visualization
-- **Dockerized deployment** for clinical accessibility and reproducibility
-- Comprehensive evaluation with confusion matrices, ROC curves, and class-wise metrics
-
-**Tech Stack:** TensorFlow, Keras, OpenCV, Streamlit, Docker
+- CNN achieving **95% accuracy** on 3,000 brain MRI scans across 4 tumor types
+- Deployed Streamlit web app with <2s inference; training set expanded 400% via augmentation
+- Dockerized for reproducible clinical deployment
 
 ---
 
@@ -145,159 +128,68 @@ I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vis
 
 **PyTorch • FaceNet • Streamlit • SQL**
 
-- Developed facial recognition architecture with **desktop GUI** featuring database integration
-- Deployed **Streamlit API** for real-time face comparison with optimized embedding extraction
-- Implemented cosine similarity matching with **SQL database** for identity management
-- Sub-second inference time for production-ready deployment
-
-**Features:**
-- 🎯 Real-time face detection and recognition
-- 💾 SQL database integration
-- 📊 Similarity scoring and matching
-- 🖥️ Desktop and web interfaces
+- Facial recognition with desktop GUI and SQL database managing 1,000+ identity profiles
+- Cosine similarity matching — **0.92 accuracy at 15 FPS** on CPU hardware
+- Streamlit API for real-time face comparison
 
 ---
 
-### 👋 **Real-Time Gesture Recognition System**
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader/Hand-Tracking)
-
-**OpenCV • MediaPipe • Tkinter**
-
-- Built low-latency CV pipeline achieving **60 FPS** with <20ms inference
-- Developed **Tkinter interface** for real-time gesture-based mouse control
-- Implemented hand landmark detection with MediaPipe for accurate tracking
-- Minimal latency for responsive desktop interaction
-
-**Performance:**
-- ⚡ 60 FPS real-time processing
-- 🎯 <20ms inference latency
-- 🖱️ Gesture-to-mouse control
-- 💻 Cross-platform compatibility
-
----
-
-### 🫁 **Lung and Colon Cancer Detection**
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader/Neural-Hand)
-
-**DenseNet • Transfer Learning • Flask**
-
-- Built deep learning model for histopathological image classification
-- Achieved **99% accuracy** using DenseNet with transfer learning
-- Deployed via **Flask web app** for real-time predictions
-- Comprehensive data augmentation and model optimization
-
-**Tech Stack:** Python, TensorFlow, DenseNet, Flask, OpenCV
-
----
-
-### 🌱 **AI-IoT Renewable Energy Prediction**
+### 🌱 **AI-IoT Renewable Energy Prediction** *(Graduation Project)*
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mo-Abdalkader/Renewable-Energy-Prediction)
 
-**LSTM • GRU • Transformers • IoT Integration**
+**LSTM • GRU • Transformers • Azure IoT Hub**
 
-- Developed energy management system using **21 deep learning models**
-- Achieved **98% accuracy** in solar and wind energy forecasting
-- Integrated sensor data collection with **cloud deployment**
-- Time series analysis with LSTM, GRU, and Transformer architectures
-
-**Tech Stack:** Python, TensorFlow, LSTM, CNN, GRU, Azure IoT Hub
+- 21 deep learning models for solar and wind energy forecasting — **<15% MAPE**
+- IoT sensor integration with cloud deployment on Azure IoT Hub
+- IEEE National Award recipient
 
 ---
 
 ## 🔧 Technical Skills
 
-### 🤖 LLM & Generative AI
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00A0DC?style=for-the-badge&logo=meta&logoColor=white)
-
-**Expertise:**
-- Large Language Models (Qwen 2.5, LLaMA, BERT, GPT)
-- Vision-Language Models (VLM)
-- Fine-tuning & PEFT (LoRA, QLoRA, Prefix Tuning)
-- RAG Systems (LangChain, FAISS, Chroma, Pinecone)
-- Prompt Engineering (Few-shot, Chain-of-Thought)
-- Model Evaluation (BLEU, ROUGE, Perplexity, Hallucination Detection)
+### 💬 LLM & NLP
+- **Models**: Qwen 2.5, LLaMA, BERT, GPT
+- **Fine-tuning**: LoRA, QLoRA, Prefix Tuning
+- **RAG**: LangChain, LangGraph, FAISS, Chroma, Pinecone
+- **Evaluation**: BLEU, ROUGE, Perplexity, Hallucination Detection
+- **Prompting**: Zero-Shot, Few-Shot, Chain-of-Thought, Structured Output
 
 ### 🧠 Deep Learning & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-**Specializations:**
-- CNNs (DenseNet, EfficientNet, ResNet, VGG)
-- Object Detection (YOLO)
-- MediaPipe for real-time vision
-- Model Optimization (Quantization int8/FP16, Pruning, Distillation)
+CNNs (DenseNet, EfficientNet, ResNet, VGG) · YOLO · MediaPipe · Quantization (int8/FP16) · Pruning · Distillation
 
-### 📊 Machine Learning & Data Science
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Tools:** XGBoost, LightGBM, Random Forest, SVM, Pandas, NumPy, Matplotlib, Seaborn
+### 📊 Classical ML & Data Science
+XGBoost · LightGBM · Random Forest · SVM · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
 ### 🚀 MLOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Infrastructure:**
-- Docker, Kubernetes, MLflow, DVC
-- FastAPI, Flask, Gunicorn, Uvicorn, Streamlit
-- CI/CD Pipelines, GitHub Actions
-- Airflow for workflow orchestration
-
-### ☁️ Cloud Platforms
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Services:** Azure ML Studio, Azure IoT Hub, AKS, AWS EC2, S3
+Docker · MLflow · FastAPI · Flask · Streamlit · GitHub Actions · Railway · Azure ML · AWS EC2/S3
 
-### 💻 Programming & Tools
+### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Languages:** Python (Expert), Java, SQL, Bash Scripting
+Python (Expert) · Java · SQL · Bash
 
 ---
 
 ## 🎓 Education & Certifications
 
-### 🎓 **Bachelor of Science in Computer Science**
-**Zagazig University** | *2019 - 2023*
+### 🎓 B.Sc. Computer Science — Zagazig University | *2019–2023*
+Coursework: Machine Learning, Deep Learning, NLP, Computer Vision, Algorithms, Databases
 
-**Relevant Coursework:** Machine Learning, Deep Learning, NLP, Computer Vision, Data Structures, Algorithms, Databases
-
-**Graduation Project:** Developed Python framework with 21 deep learning models for renewable energy forecasting using LSTM, GRU, and Transformers
-
----
-
-### 📜 **Professional Certifications**
-
-#### **Machine Learning Engineer Scholarship**
-**Digital Egypt Pioneers Initiative (DEPI) - Microsoft Track** | *April 2024 – October 2024*
-- Intensive 6-month program in production ML engineering and MLOps
-- Specialized in Azure deployment and end-to-end ML pipelines
-
-#### **Deep Learning Specialization**
-**DeepLearning.AI | Stanford University** | *October 2024*
-- Neural Networks and Deep Learning
-- Improving Deep Neural Networks
-- Structuring Machine Learning Projects
-- Convolutional Neural Networks
-- Sequence Models
-
-#### **Machine Learning Specialization**
-**DeepLearning.AI | Stanford University** | *April 2022*
-- Supervised Machine Learning
-- Advanced Learning Algorithms
-- Unsupervised Learning, Recommenders, Reinforcement Learning
+### 📜 Certifications
+- **DEPI Machine Learning Engineer Scholarship** — Microsoft Track | *2024* (300+ hrs, Azure MLOps)
+- **Deep Learning Specialization** — DeepLearning.AI / Stanford / Andrew Ng | *2024*
+- **Machine Learning Specialization** — DeepLearning.AI / Stanford / Andrew Ng | *2022*
 
 ---
 
@@ -326,30 +218,30 @@ I'm an **AI Engineer** specializing in **Large Language Models**, **Computer Vis
 
 ---
 
-## 💡 Technical Highlights
+## 💡 In a Nutshell
 
 ```python
 class MohamedAbdalkader:
     def __init__(self):
         self.role = "AI Engineer"
-        self.specialization = ["LLM Fine-tuning", "Computer Vision", "Medical AI"]
-        self.current_focus = "Vision-Language Models & RAG Systems"
-        
+        self.specialization = ["LLMs & RAG Systems", "NLP", "Medical AI"]
+        self.current_focus = "LLM Fine-tuning · RAG Pipelines · Production NLP"
+
     def achievements(self):
         return {
-            "accuracy_improvement": "240% on medical imaging tasks",
-            "model_optimization": "50% memory reduction via quantization",
-            "research_grants": "105,000 EGP in competitive funding",
-            "caption_quality": "26x improvement (BLEU: 0.01 → 0.26)"
+            "accuracy_improvement": "280% on retinopathy via LoRA fine-tuning",
+            "rag_system": "20+ medical textbooks, 0.3s FAISS retrieval",
+            "model_optimization": "59% VRAM reduction via 4-bit quantization",
+            "research_grants": "105,000 EGP (ITAC + ASRT)",
+            "report_quality": "ROUGE 0.17 → 0.44 (2.5x gain)",
         }
-    
+
     def tech_stack(self):
         return {
-            "llm": ["Qwen 2.5", "LLaMA", "BERT", "LoRA", "QLoRA"],
+            "llm_nlp": ["Qwen 2.5", "LLaMA", "BERT", "LoRA", "QLoRA", "LangChain", "FAISS"],
             "dl_frameworks": ["PyTorch", "TensorFlow", "Hugging Face"],
-            "mlops": ["Docker", "Kubernetes", "MLflow", "FastAPI"],
-            "cloud": ["Azure", "AWS"],
-            "databases": ["FAISS", "Chroma", "Pinecone", "SQL"]
+            "mlops": ["Docker", "FastAPI", "MLflow", "Railway", "Azure", "AWS"],
+            "databases": ["FAISS", "Chroma", "Pinecone", "SQL"],
         }
 ```
 
@@ -357,19 +249,17 @@ class MohamedAbdalkader:
 
 ## 🏆 Key Achievements
 
-- 🥇 **240% Accuracy Improvement** on diabetic retinopathy classification
-- 💰 **105,000 EGP** in competitive research grants (ITAC, ASRT)
-- 🏅 **Top 3** in Neuronetix Customer Churn Prediction Challenge (150 participants)
-- 🎓 **IEEE National Recognition** for graduation project innovation
-- 📈 **26x Caption Quality Improvement** (BLEU score: 0.01 → 0.26)
-- ⚡ **50% Memory Reduction** through model quantization techniques
-- 🏥 **97-99% Accuracy** across multiple medical imaging projects
+- 🥇 **280% Accuracy Improvement** — diabetic retinopathy (20% → 76%) via LoRA fine-tuning
+- 💰 **105,000 EGP** in competitive research grants (ITAC + ASRT)
+- 🏅 **Top 3 of 150** — Neuronetix Customer Churn Prediction Challenge
+- 🎓 **IEEE National Recognition** — Graduation project in renewable energy forecasting
+- 📈 **2.5x ROUGE Gain** — report quality via multi-agent architecture
+- ⚡ **59% VRAM Reduction** — 17GB → 7GB via 4-bit quantization
+- 🏥 **95–99% Accuracy** across multiple medical imaging projects
 
 ---
 
 ## 🤝 Let's Connect!
-
-I'm always excited to collaborate on innovative AI projects, discuss cutting-edge research, or explore new opportunities in machine learning and AI. Feel free to reach out!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mo-abdalkader/" target="_blank">
